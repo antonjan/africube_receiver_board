@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name msisdr-rescue)(type Legacy)(uri ${KIPRJMOD}/msisdr-rescue.lib)(options "")(descr ""))
+  (lib (name SAW_filter_6pin)(type Legacy)(uri ${KIPRJMOD}/lib/SAW_filter_6pin.lib)(options "")(descr ""))
+)

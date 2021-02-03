@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name AfriCubePiPluginBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/AfriCubePiPluginBoard-rescue.lib)(options "")(descr ""))
+  (lib (name FSUSB42MUX)(type Legacy)(uri E:/AfriCube/PiPluginBoard/FSUSB42MUX.lib)(options "")(descr ""))
+  (lib (name Raspberry_Interface)(type Legacy)(uri C:/Users/Shahn/Documents/msiSDR-master/lib/Raspberry_Interface.lib)(options "")(descr ""))
+  (lib (name raspberry_pi_2_3)(type Legacy)(uri C:/Users/Shahn/Documents/msiSDR-master/lib/raspberry_pi_2_3.lib)(options "")(descr ""))
+)

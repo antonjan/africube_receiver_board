@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name PC104)(type KiCad)(uri E:/AfriCube/PiPluginBoard)(options "")(descr "")(disabled))
+  (lib (name PC104B)(type KiCad)(uri F:/AfriCube/PiPluginBoard)(options "")(descr ""))
+  (lib (name AfriCube)(type KiCad)(uri F:/AfriCube.pretty)(options "")(descr ""))
+  (lib (name RaspberryPi)(type KiCad)(uri F:/AfriCube/PiPluginBoard/RaspberryPi.pretty)(options "")(descr ""))
+)
